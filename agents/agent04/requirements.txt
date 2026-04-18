@@ -1,0 +1,6 @@
+google-adk
+py-trello
+python-dotenv
+python-dateutil
+aiohttp==3.13.5
+pytest
